@@ -1,4 +1,5 @@
 # W&B: https://wandb.ai/jersmit244/nyc_airbnb
+# Github: https://github.com/jeremysmith244/nd0821-c2-build-model-workflow-starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
